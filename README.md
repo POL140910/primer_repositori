@@ -1,2 +1,3 @@
-# primer_repositori
-aquest es el primer repositori de github
+Projecte 2
+Pol Grnadal Esteban
+CFGM2SMXA14
